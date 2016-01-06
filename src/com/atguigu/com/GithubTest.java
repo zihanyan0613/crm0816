@@ -8,5 +8,6 @@ public class GithubTest {
 		System.out.println("from github!");
 		System.out.println("change from github!");
 		System.out.println("change from local!");
+		System.out.println("confict from local!");
 	}
 }
